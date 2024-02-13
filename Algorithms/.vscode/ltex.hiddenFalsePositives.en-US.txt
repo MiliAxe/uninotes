@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qe.g. hellotherethisisasentence This can be clearly partitioned to \"hello there this is a sentence\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qe.g. hellotherethisisasentence This can be clearly partitioned to \"hello there this is a sentence\"\\E$"}
