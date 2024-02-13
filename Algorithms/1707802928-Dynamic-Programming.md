@@ -1,5 +1,5 @@
 ---
-id: 1707802928-EQSQ
+id: 1707802928-Dynamic-Programming
 aliases:
   - 01-AL
 tags: []
