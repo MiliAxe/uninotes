@@ -4,10 +4,7 @@ aliases:
   - 01-AL
 tags: []
 ---
-
-# 01-AL
-
-## Dynamic Programming
+# Dynamic Programming
 
 Recursion works well when we don't have duplicate calculations.
 Dynamic programming works well when we have a bunch of duplicate calculations.
@@ -22,13 +19,28 @@ We can consider the solutions to be bottom-up.
 
 ### Fibonacci
 
-```alatex
+```latex
 F_n = {0 if n = 0; 1 if n = 1 ; F*{n-1} + F\_{n-2} if else}
 ```
 
 Recursion has a lot of duplicate calculations.
 A 1D array can be used to calculate the number we want starting from the start till the
 end will give us the cost of O(n)
+
+**Recursive approach**
+```c
+int nthFibonacciNum(int index) {
+    if (index <= 0) {
+        return 0;
+    } else if (index == 1) {
+        return 1;
+    }
+    return nthFibonacciNum(index - 1) + nthFibonacciNum(index - 2);
+}
+```
+![[Pasted image 20240214153353.png]]
+
+**Dynamic Programming approach**
 
 ### Text segmentation
 
