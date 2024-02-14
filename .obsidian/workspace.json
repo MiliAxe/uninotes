@@ -59,16 +59,26 @@
             "id": "063c6afc7c64b7d7",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Algorithms/Images/Pasted image 20240214163148.png"
+              }
+            }
+          },
+          {
+            "id": "8364d6f5503bcb74",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "Algorithms/1707915738-Fibonacci.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "Algorithms/1707915738-Fibonacci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "Algorithms/1707915738-Fibonacci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md"
+                "file": "Algorithms/1707915738-Fibonacci.md"
               }
             }
           }
@@ -196,18 +206,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "063c6afc7c64b7d7",
+  "active": "8364d6f5503bcb74",
   "lastOpenFiles": [
-    "Pasted image 20240214155900.png",
-    "Pasted image 20240214153353.png",
-    "ComputerArchitecture/1707809085-RTL.md",
-    "ComputerArchitecture/1707808591-Register.md",
-    "Algorithms/1707802928-Dynamic-Programming.md",
+    "Algorithms/1707915809-Text segmentation.md",
+    "Algorithms/1707915738-Fibonacci.md",
+    "NLP/1707911450-Strings.md",
+    "NLP/1707911412-Automata.md",
+    "NLP/1707721737-SXDN.md",
     "DataBase/1707716995-data-models.md",
     "DataBase/1707902875-data-abstraction.md",
-    "NLP/1707721737-SXDN.md",
-    "NLP/1707911412-Automata.md",
-    "NLP/1707911450-Strings.md",
+    "ComputerArchitecture/1707808591-Register.md",
+    "ComputerArchitecture/1707809085-RTL.md",
+    "Algorithms/1707802928-Dynamic-Programming.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Algorithms/Images/Pasted image 20240214153353.png",
+    "Algorithms/Images/Pasted image 20240214163148.png",
+    "Algorithms/Images",
+    "Algorithms/Images/Pasted image 20240214155900.png",
     "templates/Note template.md",
     "Untitled.md",
     "1707904956-Automata.md",

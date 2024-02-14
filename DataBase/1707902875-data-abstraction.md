@@ -2,7 +2,8 @@
 id: 1707902875-data-abstraction
 aliases:
   - DataAbstraction
-tags: []
+tags:
+  - DataBase
 ---
 # Data Abstraction
 

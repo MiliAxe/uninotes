@@ -41,6 +41,8 @@ int fibonacciMemo(int index) {
     return numbers[index];
 }
 
+#define TEST_INDEX 45
+
 int main(int argc, char *argv[]) {
     clock_t start, end;
     double elapsed_time;
@@ -50,19 +52,22 @@ int main(int argc, char *argv[]) {
     }
 
     start = clock();
-    printf("Recursive result: %d", fibbonacciRecursive(20));
+    printf("Recursive result: %d\n", fibbonacciRecursive(TEST_INDEX));
     end = clock();
     elapsed_time = (double)(end - start) / CLOCKS_PER_SEC;
+    printf("Recursive time: %f\n\n", elapsed_time);
 
     start = clock();
-    printf("DP result: %d", fibonacciDP(20));
+    printf("DP result: %d\n", fibonacciDP(TEST_INDEX));
     end = clock();
     elapsed_time = (double)(end - start) / CLOCKS_PER_SEC;
+    printf("DP time: %f\n\n", elapsed_time);
 
     start = clock();
-    printf("Recursive result: %d", fibonacciMemo(20));
+    printf("Recursive result: %d\n", fibonacciMemo(TEST_INDEX));
     end = clock();
     elapsed_time = (double)(end - start) / CLOCKS_PER_SEC;
+    printf("Memo time: %f\n\n", elapsed_time);
 
     return EXIT_SUCCESS;
 }
