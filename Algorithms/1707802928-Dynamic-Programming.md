@@ -41,7 +41,21 @@ int nthFibonacciNum(int index) {
 ![[Pasted image 20240214153353.png]]
 
 **Dynamic Programming approach**
+```c
+int fibonacciDP(int index) {
+    uint64_t numbers[index];
 
+    numbers[0] = 0;
+    numbers[1] = 1;
+
+    for (size_t i = 2; i <= index; i++) {
+        numbers[i] = numbers[i - 1] + numbers[i - 2];
+    }
+
+    return numbers[index];
+}
+```
+![[Pasted image 20240214155900.png]]
 ### Text segmentation
 
 We have a long string without spaces we want to find whether we have a sequence of sensible

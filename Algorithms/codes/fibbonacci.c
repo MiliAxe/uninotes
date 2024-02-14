@@ -1,6 +1,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 int fibbonacciRecursive(int index) {
     if (index <= 0) {
@@ -24,8 +25,44 @@ int fibonacciDP(int index) {
     return numbers[index];
 }
 
+#define MAX_SIZE 100
+
+uint64_t numbers[MAX_SIZE];
+
+int fibonacciMemo(int index) {
+    if (index <= 1)
+        return index;
+
+    if (numbers[index] != -1)
+        return numbers[index];
+
+    numbers[index] = fibonacciMemo(index - 1) + fibonacciMemo(index - 2);
+
+    return numbers[index];
+}
+
 int main(int argc, char *argv[]) {
-    printf("%d", fibonacciDP(100));
+    clock_t start, end;
+    double elapsed_time;
+
+    for (size_t i = 0; i < MAX_SIZE; i++) {
+        numbers[i] = -1;
+    }
+
+    start = clock();
+    printf("Recursive result: %d", fibbonacciRecursive(20));
+    end = clock();
+    elapsed_time = (double)(end - start) / CLOCKS_PER_SEC;
+
+    start = clock();
+    printf("DP result: %d", fibonacciDP(20));
+    end = clock();
+    elapsed_time = (double)(end - start) / CLOCKS_PER_SEC;
+
+    start = clock();
+    printf("Recursive result: %d", fibonacciMemo(20));
+    end = clock();
+    elapsed_time = (double)(end - start) / CLOCKS_PER_SEC;
 
     return EXIT_SUCCESS;
 }
