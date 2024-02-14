@@ -1,6 +1,13 @@
+<%*
+tp.file.rename(tp.date.now("X") + "-" + tp.file.title);
+
+const head = `---
+id: ${tp.file.title}
+aliases:
+tags:
 ---
-creation date: <% tp.file.creation_date() %>
-modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
----
-<% tp.file.title %>
-`<% await tp.file.rename(tp.date.now("X") + "-" + tp.file.title)%>
+`;
+
+const file_t = tp.file.find_tfile(tp.file.title);
+await app.vault.modify(file_t, head + tp.file.content);
+-%>

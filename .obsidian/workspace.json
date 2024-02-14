@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/1707905491-1707905318-1707905207-Automata.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/1707905491-1707905318-1707905207-Automata.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/1707905491-1707905318-1707905207-Automata.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/1707905491-1707905318-1707905207-Automata.md"
+                "file": "Algorithms/1707802928-Dynamic-Programming.md"
               }
             }
           }
@@ -198,19 +198,20 @@
   },
   "active": "063c6afc7c64b7d7",
   "lastOpenFiles": [
+    "ComputerArchitecture/1707808591-Register.md",
+    "Algorithms/1707802928-Dynamic-Programming.md",
+    "ComputerArchitecture/1707809085-RTL.md",
     "DataBase/1707716995-data-models.md",
     "DataBase/1707902875-data-abstraction.md",
-    "templates/Note template.md",
     "NLP/1707721737-SXDN.md",
-    "NLP/1707905491-1707905318-1707905207-Automata.md",
+    "NLP/1707911412-Automata.md",
+    "NLP/1707911450-Strings.md",
+    "templates/Note template.md",
     "Untitled.md",
     "1707904956-Automata.md",
     "1707904839-Datatbasedesign.md",
     "Some Word1707904785.md",
-    "ComputerArchitecture/1707808591-Register.md",
     "templates",
-    "Algorithms/1707802928-Dynamic-Programming.md",
-    "ComputerArchitecture/1707809085-RTL.md",
     "DataBase/1707716995-ARDN.md",
     "DataBase/1707902875-dataabstraction.md",
     "DataBase/Data abstraction.md"
