@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-rtl"
+  "obsidian-rtl",
+  "luhman",
+  "obsidian-relative-line-numbers",
+  "templater-obsidian"
 ]

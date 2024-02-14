@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/1707716995-ARDN.md",
+                "file": "ComputerArchitecture/1707808591-Register.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a327fa6ac6cad92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/1707716995-ARDN.md",
+                "file": "Note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/1707716995-ARDN.md",
+                "file": "Note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/1707716995-ARDN.md"
+                "file": "Note template.md"
               }
             }
           }
@@ -146,8 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03dba1d35a5c4ae4",
+  "active": "a327fa6ac6cad92c",
   "lastOpenFiles": [
-    "Algorithms/1707802928-Dynamic-Programming.md"
+    "ComputerArchitecture/1707808591-Register.md",
+    "Note template.md",
+    "templates",
+    "Algorithms/1707802928-Dynamic-Programming.md",
+    "ComputerArchitecture/1707809085-RTL.md",
+    "NLP/1707721737-SXDN.md",
+    "DataBase/1707902875-data-abstraction.md",
+    "DataBase/1707716995-data-models.md",
+    "DataBase/1707716995-ARDN.md",
+    "DataBase/1707902875-dataabstraction.md",
+    "DataBase/Data abstraction.md"
   ]
 }
