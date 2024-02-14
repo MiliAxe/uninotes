@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/1707915738-Fibonacci.md",
+                "file": "Algorithms/1707915809-Text segmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/1707915738-Fibonacci.md",
+                "file": "Algorithms/1707915809-Text segmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/1707915738-Fibonacci.md",
+                "file": "Algorithms/1707915809-Text segmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/1707915738-Fibonacci.md"
+                "file": "Algorithms/1707915809-Text segmentation.md"
               }
             }
           }
@@ -208,15 +208,17 @@
   },
   "active": "8364d6f5503bcb74",
   "lastOpenFiles": [
-    "Algorithms/1707915809-Text segmentation.md",
+    "Algorithms/codes/a.out",
+    "Algorithms/codes/textsegmentation.c",
     "Algorithms/1707915738-Fibonacci.md",
+    "Algorithms/1707915809-Text segmentation.md",
+    "ComputerArchitecture/1707808591-Register.md",
+    "ComputerArchitecture/1707809085-RTL.md",
     "NLP/1707911450-Strings.md",
     "NLP/1707911412-Automata.md",
     "NLP/1707721737-SXDN.md",
     "DataBase/1707716995-data-models.md",
     "DataBase/1707902875-data-abstraction.md",
-    "ComputerArchitecture/1707808591-Register.md",
-    "ComputerArchitecture/1707809085-RTL.md",
     "Algorithms/1707802928-Dynamic-Programming.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
