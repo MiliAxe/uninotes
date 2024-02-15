@@ -3,17 +3,20 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main(int argc, char *argv[]) {
-    Hunhandle *handle = Hunspell_create(NULL, NULL);
+int isEnglishWord(const char *word) {
+    Hunhandle *handle = Hunspell_create("/usr/share/hunspell/en_US.aff",
+                                        "/usr/share/hunspell/en_US.dic");
 
     if (!handle) {
         return 1;
     }
 
-    const char *word = "hello";
-
     int isWord = Hunspell_spell(handle, word);
     printf("%d", isWord);
 
-    return EXIT_SUCCESS;
+    Hunspell_destroy(handle);
+
+    return isWord;
 }
+
+int main(int argc, char *argv[]) { return EXIT_SUCCESS; }
