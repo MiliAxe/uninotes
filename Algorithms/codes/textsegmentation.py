@@ -16,8 +16,8 @@ def is_sentence_english(sentence):
     for index, _ in enumerate(sentence):
         if is_english_word(sentence[: index + 1]):
             print(f"Found word! {sentence[:index + 1]}")
-            rest_english = is_sentence_english(sentence[index + 1 :])
-            if rest_english:
+            is_rest_english = is_sentence_english(sentence[index + 1 :])
+            if is_rest_english:
                 return True
     return False
 
