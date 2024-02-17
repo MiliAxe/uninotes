@@ -23,8 +23,8 @@ Here, $Q$ is our state, $\Sigma$ is the inputs we accept, $\delta$ is the transi
 Let's find the parameters for this one:
 ![[Pasted image 20240217104728.png]]
 ![[Pasted image 20240217104733.png]]
-![[Pasted image 20240217104739.png|grid]]
-![[Pasted image 20240217104745.png|grid]]
+![[Pasted image 20240217104739.png]]
+![[Pasted image 20240217104745.png]]
 We can also show the $\delta$ as a table here:
 ![[Pasted image 20240217104849.png|center]]
 
@@ -32,3 +32,9 @@ We can also show the $\delta$ as a table here:
 ![[Pasted image 20240217110026.png]]
 Here, the L(M) is accepted because all of the members lead to a final state
 
+![[Pasted image 20240217110521.png|center]]
+Here, we mean that we reach the final state after some movement.
+
+we might have to design the DFA for some examples.
+
+**A very nice approach when creating the diagram is to make sure every node has all the outputs**
