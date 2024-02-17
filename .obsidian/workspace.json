@@ -64,9 +64,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "977db592c666d3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/1708086605-computation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24e2d91375e82c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/finite-automata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/database-snapshot.md",
+                "file": "NLP/finite-automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/database-snapshot.md",
+                "file": "NLP/finite-automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/database-snapshot.md"
+                "file": "NLP/finite-automata.md"
               }
             }
           }
@@ -194,18 +218,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "145d270a18bd99d3",
+  "active": "24e2d91375e82c14",
   "lastOpenFiles": [
-    "Pasted image 20240217093103.png",
-    "DataBase/1708149487-ERD-Model.md",
+    "NLP/1708086605-computation.md",
+    "NLP/finite-automata.md",
+    "NLP/1707911450-Strings.md",
+    "NLP/1707911412-Automata.md",
+    "DataBase/database-architecture.md",
     "DataBase/database-snapshot.md",
+    "DataBase/1708149487-ERD-Model.md",
+    "Pasted image 20240217093103.png",
     "DataBase/1707716995-data-models.md",
     "DataBase/1707902875-data-abstraction.md",
     "Pasted image 20240217091913.png",
     "NLP/1707721737-SXDN.md",
-    "NLP/1707911412-Automata.md",
-    "NLP/1708086605-computation.md",
-    "NLP/1707911450-Strings.md",
     "assets/imgs/computation-model.png",
     "assets/imgs",
     "assets",
