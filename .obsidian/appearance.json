@@ -1,8 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "nativeMenus": false,
   "interfaceFontFamily": "Terminess Nerd Font",
-  "textFontFamily": "Terminess Nerd Font"
+  "textFontFamily": "Terminess Nerd Font",
+  "enabledCssSnippets": [
+    "img-grids-floats"
+  ]
 }

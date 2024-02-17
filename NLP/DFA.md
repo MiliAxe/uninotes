@@ -1,0 +1,34 @@
+# Transition Graphs
+a graph that shows the evolution of their state and how it reacts to the different flow of data.
+
+![[Pasted image 20240217103905.png]]
+
+Here, we start from the left and go on until we reach the final state.
+
+![[Pasted image 20240217103947.png]]
+
+If we go on the string according to the graph, we will reach the final state.
+
+We will reach the final state **ACCEPT** when we:
+- Have used all the chars of the string
+- We are in the final state
+
+If none of the above we will be in **REJECT** state.
+
+# Mathematical representation
+$$M = (Q, \Sigma, \delta , q_{0}, F)$$
+Here, $Q$ is our state, $\Sigma$ is the inputs we accept, $\delta$ is the transition function, $q_0$ is our iniital state and $F$ is our final states
+
+![[Pasted image 20240217104715.png]]
+Let's find the parameters for this one:
+![[Pasted image 20240217104728.png]]
+![[Pasted image 20240217104733.png]]
+![[Pasted image 20240217104739.png|grid]]
+![[Pasted image 20240217104745.png|grid]]
+We can also show the $\delta$ as a table here:
+![[Pasted image 20240217104849.png|center]]
+
+# Languages accepted by DFA
+![[Pasted image 20240217110026.png]]
+Here, the L(M) is accepted because all of the members lead to a final state
+
