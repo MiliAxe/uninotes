@@ -10,7 +10,7 @@ tags:
 
 A set of _Temporary memory_, _Program memory_, _input + output memory_ and _CPU_ that is used to solve problems
 
-![computation-model.png](assets/imgs/computation-model.png)
+![computation-model.png](computation-model.png)
 
 - **Input memory:** stores the input data
 - **Output memory:** stores the output data

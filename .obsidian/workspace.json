@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/regular-language.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a0a6dc91ba2d388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/1708236493-Assemble-line-scheduling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/regular-language.md",
+                "file": "Algorithms/1708236493-Assemble-line-scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/regular-language.md",
+                "file": "Algorithms/1708236493-Assemble-line-scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/regular-language.md"
+                "file": "Algorithms/1708236493-Assemble-line-scheduling.md"
               }
             }
           }
@@ -147,23 +160,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c98a0fca426f8e5",
+  "active": "7a0a6dc91ba2d388",
   "lastOpenFiles": [
+    "Algorithms/1707802928-Dynamic-Programming.md",
+    "Algorithms/1707915809-Text segmentation.md",
+    "Algorithms/1708236493-Assemble-line-scheduling.md",
+    "Algorithms/1707915738-Fibonacci.md",
+    "Pasted image 20240218093034.png",
+    "NLP/assets/imgs/Pasted image 20240217091913 1.png",
+    "NLP/assets/imgs/computation-model.png",
+    "NLP/regular-language.md",
     "NLP/DFA.md",
     "NLP/1708086605-computation.md",
     "NLP/finite-automata.md",
-    "NLP/regular-language.md",
-    "NLP/Untitled/Pasted image 20240217093103 1.png",
-    "NLP/Untitled/Pasted image 20240217104728.png",
-    "NLP/Untitled/Pasted image 20240217103905.png",
-    "NLP/Untitled/Pasted image 20240217091913 1.png",
-    "NLP/Untitled/Pasted image 20240217110521.png",
+    "NLP/assets/imgs/Pasted image 20240217093103 1.png",
+    "NLP/assets/imgs/Pasted image 20240217104728.png",
+    "NLP/assets/imgs/Pasted image 20240217103905.png",
+    "NLP/assets/imgs/Pasted image 20240217110521.png",
     "NLP/Untitled",
-    "NLP/Untitled/Pasted image 20240217110026.png",
-    "NLP/Untitled/Pasted image 20240217104849.png",
-    "NLP/Untitled/Pasted image 20240217104745.png",
-    "NLP/Untitled/Pasted image 20240217104739.png",
-    "NLP/Untitled/Pasted image 20240217104733.png",
+    "NLP/assets/imgs/Pasted image 20240217110026.png",
+    "NLP/assets/imgs/Pasted image 20240217104849.png",
+    "NLP/assets/imgs/Pasted image 20240217104745.png",
     "ComputerArchitecture/1707808591-Register.md",
     "NLP/1707911412-Automata.md",
     "NLP/1707911450-Strings.md",
@@ -173,11 +190,8 @@
     "DataBase/1707716995-data-models.md",
     "DataBase/1707902875-data-abstraction.md",
     "NLP/1707721737-SXDN.md",
-    "assets/imgs",
-    "assets",
-    "Algorithms/1707915738-Fibonacci.md",
-    "Algorithms/1707915809-Text segmentation.md",
-    "Algorithms/1707802928-Dynamic-Programming.md",
+    "NLP/assets/imgs",
+    "NLP/assets",
     "Algorithms/codes/textsegmentation.py",
     "Algorithms/codes/a.out",
     "Algorithms/codes/textsegmentation.c",
@@ -192,7 +206,6 @@
     "Some Word1707904785.md",
     "templates",
     "DataBase/1707716995-ARDN.md",
-    "DataBase/1707902875-dataabstraction.md",
-    "DataBase/Data abstraction.md"
+    "DataBase/1707902875-dataabstraction.md"
   ]
 }

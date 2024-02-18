@@ -11,6 +11,8 @@ Recursion works well when we don't have duplicate calculations.
 Dynamic programming works well when we have a bunch of duplicate calculations.
 Usually, 1D, 2D and 3D and ... arrays are needed to store the result of the calculations.
 We can consider the solutions to be bottom-up.
+It's key to look to break down the problem to smaller sub-problems. 
+
 
 3 ways of solving problems.
 
@@ -21,3 +23,4 @@ We can consider the solutions to be bottom-up.
 Some Problems related to DP:
 - [[1707915738-Fibonacci|Fibonacci]]
 - [[1707915809-Text segmentation|Text Segmentation]]
+- [[1708236493-Assemble-line-scheduling]]
