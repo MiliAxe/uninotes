@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "foldHeading": true
+  "foldHeading": true,
+  "autoPairBrackets": false
 }

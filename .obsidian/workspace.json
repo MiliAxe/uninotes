@@ -47,46 +47,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/1707911412-Automata.md",
-                "mode": "source",
+                "file": "NLP/1708264512-language.md",
+                "mode": "preview",
                 "source": true
               }
-            },
-            "group": "b3f14b9f7e6e960e"
+            }
+          },
+          {
+            "id": "d920af92636ee80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/grammar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "f7f511c247b8ef4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/1707911450-Strings.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "306cd714176fc1e1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fdba38edde844e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/1707911412-Automata.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "b3f14b9f7e6e960e"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/1707911450-Strings.md",
+                "file": "NLP/grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/1707911450-Strings.md",
+                "file": "NLP/grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/1707911450-Strings.md"
+                "file": "NLP/grammar.md"
               }
             }
           }
@@ -205,8 +193,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -215,14 +203,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7f511c247b8ef4c",
+  "active": "d920af92636ee80d",
   "lastOpenFiles": [
-    "NLP/1707911412-Automata.md",
-    "NLP/1707911450-Strings.md",
     "NLP/1708264512-language.md",
+    "NLP/grammar.md",
+    "Pasted image 20240218175216.png",
+    "Pasted image 20240218175211.png",
+    "NLP/Untitled 1.md",
+    "NLP/1707911450-Strings.md",
     "NLP/1708086605-computation.md",
-    "NLP/1708263536-DFA.md",
+    "NLP/1707911412-Automata.md",
+    "Algorithms/Images/Pasted image 20240214163148.png",
+    "templates/Note template.md",
+    "ComputerArchitecture/1707808591-Register.md",
     "NLP/1708263546-regular-language.md",
+    "NLP/1708263536-DFA.md",
     "NLP/1708263542-finite-automata.md",
     "DataBase/1707716995-data-models.md",
     "Pasted image 20240218172239.png",
@@ -238,9 +233,6 @@
     "NLP/assets/imgs/Pasted image 20240217110026.png",
     "NLP/assets/imgs/Pasted image 20240217104849.png",
     "NLP/assets/imgs/Pasted image 20240217104745.png",
-    "NLP/assets/imgs/Pasted image 20240217104739.png",
-    "NLP/assets/imgs/Pasted image 20240217104733.png",
-    "NLP/assets/imgs/Pasted image 20240217104728.png",
     "NLP/assets/imgs",
     "NLP/assets",
     "DataBase/database-architecture.md",
@@ -249,19 +241,14 @@
     "Algorithms/codes/a.out",
     "Algorithms/codes/textsegmentation.c",
     "Algorithms/1707915738-Fibonacci.md",
-    "ComputerArchitecture/1707808591-Register.md",
     "NLP/1707721737-SXDN.md",
     "DataBase/1707902875-data-abstraction.md",
     "Algorithms/1707802928-Dynamic-Programming.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Algorithms/Images",
-    "templates/Note template.md",
     "Untitled.md",
     "1707904956-Automata.md",
-    "1707904839-Datatbasedesign.md",
-    "Some Word1707904785.md",
-    "templates",
-    "DataBase/1707716995-ARDN.md"
+    "templates"
   ]
 }
