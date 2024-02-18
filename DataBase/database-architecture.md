@@ -1,0 +1,1 @@
+Just like software design, it is super important that different layers of your database structure are independent of each other and modular design is super important.
