@@ -1,7 +1,7 @@
 ---
 id: 1708086605-computation
 aliases:
-  - Computation
+  - computation
 tags:
   - NLP
 ---
