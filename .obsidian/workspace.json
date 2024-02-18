@@ -8,31 +8,85 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c98a0fca426f8e5",
+            "id": "03dba1d35a5c4ae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "ComputerArchitecture/1707808591-Register.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a0a6dc91ba2d388",
+            "id": "3a9f92f2f645d017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/1708236493-Assemble-line-scheduling.md",
+                "file": "templates/Note template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "063c6afc7c64b7d7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Algorithms/Images/Pasted image 20240214163148.png"
+              }
+            }
+          },
+          {
+            "id": "8364d6f5503bcb74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/1707911412-Automata.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b3f14b9f7e6e960e"
+          },
+          {
+            "id": "f7f511c247b8ef4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/1707911450-Strings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "306cd714176fc1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdba38edde844e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/1707911412-Automata.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "b3f14b9f7e6e960e"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/1708236493-Assemble-line-scheduling.md",
+                "file": "NLP/1707911450-Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/1708236493-Assemble-line-scheduling.md",
+                "file": "NLP/1707911450-Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/1708236493-Assemble-line-scheduling.md"
+                "file": "NLP/1707911450-Strings.md"
               }
             }
           }
@@ -157,45 +211,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a0a6dc91ba2d388",
+  "active": "f7f511c247b8ef4c",
   "lastOpenFiles": [
-    "Algorithms/1707802928-Dynamic-Programming.md",
-    "Algorithms/1707915809-Text segmentation.md",
-    "Algorithms/1708236493-Assemble-line-scheduling.md",
-    "Algorithms/1707915738-Fibonacci.md",
-    "Pasted image 20240218093034.png",
-    "NLP/assets/imgs/Pasted image 20240217091913 1.png",
-    "NLP/assets/imgs/computation-model.png",
-    "NLP/regular-language.md",
-    "NLP/DFA.md",
+    "NLP/1707911412-Automata.md",
+    "NLP/1707911450-Strings.md",
+    "NLP/1708264512-language.md",
     "NLP/1708086605-computation.md",
-    "NLP/finite-automata.md",
-    "NLP/assets/imgs/Pasted image 20240217093103 1.png",
-    "NLP/assets/imgs/Pasted image 20240217104728.png",
-    "NLP/assets/imgs/Pasted image 20240217103905.png",
+    "NLP/1708263536-DFA.md",
+    "NLP/1708263546-regular-language.md",
+    "NLP/1708263542-finite-automata.md",
+    "DataBase/1707716995-data-models.md",
+    "Pasted image 20240218172239.png",
+    "Algorithms/1708236493-Assemble-line-scheduling.md",
+    "Excalidraw/Drawing 2024-02-18 17.03.51.excalidraw.md",
+    "Excalidraw",
+    "Algorithms/1707915809-Text segmentation.md",
+    "ComputerArchitecture/1707809085-RTL.md",
+    "DataBase/database-snapshot.md",
+    "Pasted image 20240218093034.png",
+    "NLP/assets/imgs/computation-model.png",
     "NLP/assets/imgs/Pasted image 20240217110521.png",
-    "NLP/Untitled",
     "NLP/assets/imgs/Pasted image 20240217110026.png",
     "NLP/assets/imgs/Pasted image 20240217104849.png",
     "NLP/assets/imgs/Pasted image 20240217104745.png",
-    "ComputerArchitecture/1707808591-Register.md",
-    "NLP/1707911412-Automata.md",
-    "NLP/1707911450-Strings.md",
-    "DataBase/database-architecture.md",
-    "DataBase/database-snapshot.md",
-    "DataBase/1708149487-ERD-Model.md",
-    "DataBase/1707716995-data-models.md",
-    "DataBase/1707902875-data-abstraction.md",
-    "NLP/1707721737-SXDN.md",
+    "NLP/assets/imgs/Pasted image 20240217104739.png",
+    "NLP/assets/imgs/Pasted image 20240217104733.png",
+    "NLP/assets/imgs/Pasted image 20240217104728.png",
     "NLP/assets/imgs",
     "NLP/assets",
+    "DataBase/database-architecture.md",
+    "DataBase/1708149487-ERD-Model.md",
     "Algorithms/codes/textsegmentation.py",
     "Algorithms/codes/a.out",
     "Algorithms/codes/textsegmentation.c",
-    "ComputerArchitecture/1707809085-RTL.md",
+    "Algorithms/1707915738-Fibonacci.md",
+    "ComputerArchitecture/1707808591-Register.md",
+    "NLP/1707721737-SXDN.md",
+    "DataBase/1707902875-data-abstraction.md",
+    "Algorithms/1707802928-Dynamic-Programming.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Algorithms/Images",
@@ -205,7 +262,6 @@
     "1707904839-Datatbasedesign.md",
     "Some Word1707904785.md",
     "templates",
-    "DataBase/1707716995-ARDN.md",
-    "DataBase/1707902875-dataabstraction.md"
+    "DataBase/1707716995-ARDN.md"
   ]
 }
