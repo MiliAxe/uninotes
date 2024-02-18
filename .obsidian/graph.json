@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:templates  ",
+  "search": "-path:templates -file  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.9586165100950744,
-  "close": true
+  "close": false
 }

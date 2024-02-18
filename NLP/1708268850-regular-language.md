@@ -1,10 +1,11 @@
 ---
-id: regular-language
+id: Regular language
 aliases:
   - regular-language
   - regular language
 tags:
   - NLP
+title: test
 ---
 A [[1708268391-language|language]] is regular if there is a [[1708263536-DFA|DFA]] for it.
 

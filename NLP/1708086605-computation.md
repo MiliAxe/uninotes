@@ -1,5 +1,5 @@
 ---
-id: 1708086605-computation
+id: Computation
 aliases:
   - computation
 tags:

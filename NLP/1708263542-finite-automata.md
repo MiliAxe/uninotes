@@ -1,5 +1,5 @@
 ---
-id: finite-automata
+id: Finite Automata
 aliases:
   - finite automata
 tags:

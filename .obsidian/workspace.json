@@ -11,8 +11,12 @@
             "id": "9e48a33422ef3f2e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NLP/1708263536-DFA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NLP/1708263536-DFA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NLP/1708263536-DFA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NLP/1708263536-DFA.md"
+              }
             }
           }
         ]
@@ -143,20 +151,26 @@
   },
   "active": "9e48a33422ef3f2e",
   "lastOpenFiles": [
-    "NLP/1708263536-DFA.md",
-    "NLP/1708268391-language.md",
-    "NLP/1708267817-grammar.md",
-    "NLP/1708268850-regular-language.md",
-    "1708268391-languages.md",
+    "Pasted image 20240218191507.png",
     "NLP/1708263542-finite-automata.md",
-    "Pasted image 20240218185333.png",
-    "Pasted image 20240218185327.png",
+    "NLP/1708268391-language.md",
+    "NLP/1708268850-regular-language.md",
+    "NLP/1708263536-DFA.md",
+    "NLP/1708267817-grammar.md",
+    "Excalidraw/grammar 2024-02-18 18.04.12.excalidraw.md",
+    "DataBase/database-snapshot.md",
+    "DataBase/database-architecture.md",
+    "DataBase/1707716995-data-models.md",
+    "DataBase/1707902875-data-abstraction.md",
+    "DataBase/1708270814-ERD-Model.md",
+    "NLP/1707911412-Automata.md",
     "NLP/1708086605-computation.md",
     "NLP/1707911450-Strings.md",
-    "NLP/1707911412-Automata.md",
+    "1708268391-languages.md",
+    "Pasted image 20240218185333.png",
+    "Pasted image 20240218185327.png",
     "templates/Note template.md",
     "Pasted image 20240218181252.png",
-    "Excalidraw/grammar 2024-02-18 18.04.12.excalidraw.md",
     "Pasted image 20240218181605.png",
     "Excalidraw/Drawing 2024-02-18 17.03.51.excalidraw.md",
     "Excalidraw/Drawing 2024-02-18 18.03.57.excalidraw.md",
@@ -169,22 +183,16 @@
     "NLP/assets/imgs/Pasted image 20240218093034.png",
     "NLP/assets/imgs/Pasted image 20240218172239.png",
     "NLP/Untitled 1.md",
-    "DataBase/1707716995-data-models.md",
     "Algorithms/1708236493-Assemble-line-scheduling.md",
     "Excalidraw",
     "Algorithms/1707915809-Text segmentation.md",
     "ComputerArchitecture/1707809085-RTL.md",
-    "DataBase/database-snapshot.md",
     "NLP/assets/imgs",
     "NLP/assets",
-    "DataBase/database-architecture.md",
-    "DataBase/1708149487-ERD-Model.md",
     "Algorithms/codes/textsegmentation.py",
     "Algorithms/codes/a.out",
     "Algorithms/codes/textsegmentation.c",
     "Algorithms/1707915738-Fibonacci.md",
-    "NLP/1707721737-SXDN.md",
-    "DataBase/1707902875-data-abstraction.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Algorithms/Images",
