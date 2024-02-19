@@ -1,5 +1,5 @@
 ---
-id: 1707902875-data-abstraction
+id: Data Abstraction
 aliases:
   - DataAbstraction
 tags:

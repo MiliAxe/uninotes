@@ -4,6 +4,7 @@ tp.file.rename(tp.date.now("X") + "-" + tp.file.title);
 const head = `---
 id: ${tp.file.title}
 aliases:
+- ${tp.file.title}
 tags:
 ---
 `;
