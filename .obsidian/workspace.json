@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/1708326485-NFA.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/1708326485-NFA.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/1708326485-NFA.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/1708326485-NFA.md"
+                "file": "Algorithms/1707802928-Dynamic-Programming.md"
               }
             }
           }
@@ -209,11 +208,15 @@
   },
   "active": "5d73c21d533b9ac0",
   "lastOpenFiles": [
+    "Algorithms/1707915809-Text segmentation.md",
+    "Algorithms/1708236493-Assemble-line-scheduling.md",
+    "Algorithms/1707915738-Fibonacci.md",
+    "Algorithms/1707802928-Dynamic-Programming.md",
+    "NLP/1708326485-NFA.md",
     "Pasted image 20240219110259.png",
     "Pasted image 20240219105942.png",
     "NLP/Lambda-transition.md",
     "Pasted image 20240219104929.png",
-    "NLP/1708326485-NFA.md",
     "Pasted image 20240219104616.png",
     "NLP/1708263536-DFA.md",
     "NLP/1707911450-Strings.md",
@@ -224,7 +227,6 @@
     "DataBase/1708270814-ERD-Model.md",
     "DataBase/1707716995-data-models.md",
     "DataBase/1707902875-data-abstraction.md",
-    "Algorithms/1708236493-Assemble-line-scheduling.md",
     "NLP/1707911412-Automata.md",
     "Pasted image 20240218191507.png",
     "conflict-files-obsidian-git.md",
@@ -232,15 +234,11 @@
     "Pasted image 20240218185327.png",
     "Pasted image 20240218181605.png",
     "Pasted image 20240218181252.png",
-    "NLP/assets/imgs/Pasted image 20240218180042.png",
     "NLP/1708268391-language.md",
     "NLP/1708267817-grammar.md",
     "NLP/1708263542-finite-automata.md",
     "Excalidraw/grammar 2024-02-18 18.04.12.excalidraw.md",
     "Excalidraw",
-    "Algorithms/1707802928-Dynamic-Programming.md",
-    "Algorithms/1707915738-Fibonacci.md",
-    "Algorithms/1707915809-Text segmentation.md",
     "NLP/regular-language.md",
     "NLP/DFA.md",
     "NLP/1708086605-computation.md",
