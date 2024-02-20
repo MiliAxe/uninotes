@@ -55,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdd9b509fa1cebfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Matrix-chain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "95ea189f25103df2",
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "Algorithms/Matrix-chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "Algorithms/Matrix-chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md"
+                "file": "Algorithms/Matrix-chain.md"
               }
             }
           }
@@ -206,13 +218,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d73c21d533b9ac0",
+  "active": "fdd9b509fa1cebfd",
   "lastOpenFiles": [
+    "NLP/1708326485-NFA.md",
+    "Algorithms/Matrix-chain.md",
+    "Pasted image 20240220095357.png",
+    "Algorithms/1707802928-Dynamic-Programming.md",
     "Algorithms/1707915809-Text segmentation.md",
     "Algorithms/1708236493-Assemble-line-scheduling.md",
     "Algorithms/1707915738-Fibonacci.md",
-    "Algorithms/1707802928-Dynamic-Programming.md",
-    "NLP/1708326485-NFA.md",
     "Pasted image 20240219110259.png",
     "Pasted image 20240219105942.png",
     "NLP/Lambda-transition.md",
@@ -233,7 +247,6 @@
     "Pasted image 20240218185333.png",
     "Pasted image 20240218185327.png",
     "Pasted image 20240218181605.png",
-    "Pasted image 20240218181252.png",
     "NLP/1708268391-language.md",
     "NLP/1708267817-grammar.md",
     "NLP/1708263542-finite-automata.md",
@@ -244,7 +257,6 @@
     "NLP/1708086605-computation.md",
     "NLP/finite-automata.md",
     "NLP/Untitled",
-    "ComputerArchitecture/1707808591-Register.md",
     "NLP/assets/imgs",
     "NLP/assets",
     "Algorithms/codes/textsegmentation.py",
