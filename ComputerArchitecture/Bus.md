@@ -1,0 +1,1 @@
+If too many [[1707808591-Register|Registers]] exist, we can use bus lines to share the pathway of data movement between [[1707808591-Register|Registers]]. But of course, we have to handle which 
