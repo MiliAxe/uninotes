@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c63e40b02b09cc7a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240219104209.png"
+              }
+            }
+          },
+          {
+            "id": "350d24cd80e84907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -149,21 +172,31 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9e48a33422ef3f2e",
+  "active": "350d24cd80e84907",
   "lastOpenFiles": [
+    "Pasted image 20240219104209.png",
+    "conflict-files-obsidian-git.md",
+    "Algorithms/1707802928-Dynamic-Programming.md",
+    "Pasted image 20240220110741.png",
+    "Pasted image 20240220105528.png",
+    "Pasted image 20240220105349.png",
+    "Pasted image 20240220105124.png",
+    "Pasted image 20240220105017.png",
+    "Pasted image 20240220095357.png",
+    "Pasted image 20240219110259.png",
+    "Pasted image 20240219105942.png",
+    "Pasted image 20240219104929.png",
+    "NLP/Lambda-transition.md",
+    "NLP/1708326485-NFA.md",
+    "ComputerArchitecture/Memory.md",
+    "ComputerArchitecture/Control-unit.md",
+    "ComputerArchitecture/1708413940-Bus.md",
+    "Algorithms/Matrix-chain.md",
     "Algorithms/1708236493-Assemble-line-scheduling.md",
     "DataBase/database-snapshot.md",
     "DataBase/database-architecture.md",
     "DataBase/1708270814-ERD-Model.md",
     "DataBase/1707902875-data-abstraction.md",
-    "NLP/assets/imgs/Pasted image 20240217093103 1.png",
-    "NLP/assets/imgs/computation-model.png",
-    "NLP/assets/imgs/Pasted image 20240217104745.png",
-    "NLP/assets/imgs/Pasted image 20240218181252 1.png",
-    "NLP/assets/imgs/Pasted image 20240218191507 1.png",
-    "NLP/assets/imgs/Pasted image 20240218185333 1.png",
-    "NLP/assets/imgs/Pasted image 20240218185327 1.png",
-    "NLP/assets/imgs/Pasted image 20240218181605 1.png",
     "NLP/1708263536-DFA.md",
     "NLP/1708263542-finite-automata.md",
     "NLP/1708268391-language.md",
@@ -176,22 +209,12 @@
     "NLP/1707911450-Strings.md",
     "1708268391-languages.md",
     "templates/Note template.md",
-    "Excalidraw/Drawing 2024-02-18 17.03.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-18 18.03.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-18 18.02.26.excalidraw.md",
-    "ComputerArchitecture/1707808591-Register.md",
-    "Algorithms/Images/Pasted image 20240214163148.png",
-    "NLP/assets/imgs/Pasted image 20240217103905.png",
-    "NLP/Untitled 1.md",
     "Excalidraw",
-    "Algorithms/1707915809-Text segmentation.md",
-    "ComputerArchitecture/1707809085-RTL.md",
     "NLP/assets/imgs",
     "NLP/assets",
     "Algorithms/codes/textsegmentation.py",
     "Algorithms/codes/a.out",
     "Algorithms/codes/textsegmentation.c",
-    "Algorithms/1707915738-Fibonacci.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Algorithms/Images",

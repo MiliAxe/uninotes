@@ -1,5 +1,5 @@
 ---
-id: 1707802928-Dynamic-Programming
+id: Dynamic Programming
 aliases:
   - 01-AL
 tags:
@@ -23,4 +23,7 @@ It's key to look to break down the problem to smaller sub-problems.
 Some Problems related to DP:
 - [[1707915738-Fibonacci|Fibonacci]]
 - [[1707915809-Text segmentation|Text Segmentation]]
-- [[1708236493-Assemble-line-scheduling]]
+- [[1708236493-Assemble-line-scheduling|Assemble-line-scheduling]]
+
+## Cut and paste principal
+This technique says that in order to have an optimal solution, we should have used optimal underlying problems.

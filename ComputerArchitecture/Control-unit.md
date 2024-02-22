@@ -1,0 +1,1 @@
+Control unit is responsible for handling the data movement between registers. It analyzes the instructions and does the necessary steps to move the data between registers.
