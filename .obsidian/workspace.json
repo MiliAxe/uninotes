@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "NLP/1708268391-language.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -163,13 +162,13 @@
   "active": "9e48a33422ef3f2e",
   "lastOpenFiles": [
     "NLP/1707911450-Strings.md",
+    "NLP/1708267817-grammar.md",
     "NLP/1708268391-language.md",
     "NLP/1708086605-computation.md",
     "NLP/1708263542-finite-automata.md",
     "NLP/1708263536-DFA.md",
     "NLP/1707911412-Automata.md",
     "NLP/Lambda-transition.md",
-    "NLP/1708267817-grammar.md",
     "NLP/1708268850-regular-language.md",
     "NLP/1708326485-NFA.md",
     "DataBase/database-architecture.md",
