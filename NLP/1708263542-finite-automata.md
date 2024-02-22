@@ -10,5 +10,5 @@ tags:
 
 **Transducer automaton:** Gives a string instead of a "Yes or No"
 
-![[Pasted image 20240218185327.png]]
-![[Pasted image 20240218185333.png]]
+![[Pasted image 20240218185327 1.png]]
+![[Pasted image 20240218185333 1.png]]

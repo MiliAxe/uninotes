@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/1708263536-DFA.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/1708263536-DFA.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/1708263536-DFA.md",
+                "file": "Algorithms/1707802928-Dynamic-Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/1708263536-DFA.md"
+                "file": "Algorithms/1707802928-Dynamic-Programming.md"
               }
             }
           }
@@ -151,39 +151,38 @@
   },
   "active": "9e48a33422ef3f2e",
   "lastOpenFiles": [
-    "Pasted image 20240218191507.png",
+    "Algorithms/1708236493-Assemble-line-scheduling.md",
+    "DataBase/database-snapshot.md",
+    "DataBase/database-architecture.md",
+    "DataBase/1708270814-ERD-Model.md",
+    "DataBase/1707902875-data-abstraction.md",
+    "NLP/assets/imgs/Pasted image 20240217093103 1.png",
+    "NLP/assets/imgs/computation-model.png",
+    "NLP/assets/imgs/Pasted image 20240217104745.png",
+    "NLP/assets/imgs/Pasted image 20240218181252 1.png",
+    "NLP/assets/imgs/Pasted image 20240218191507 1.png",
+    "NLP/assets/imgs/Pasted image 20240218185333 1.png",
+    "NLP/assets/imgs/Pasted image 20240218185327 1.png",
+    "NLP/assets/imgs/Pasted image 20240218181605 1.png",
+    "NLP/1708263536-DFA.md",
     "NLP/1708263542-finite-automata.md",
     "NLP/1708268391-language.md",
     "NLP/1708268850-regular-language.md",
-    "NLP/1708263536-DFA.md",
     "NLP/1708267817-grammar.md",
     "Excalidraw/grammar 2024-02-18 18.04.12.excalidraw.md",
-    "DataBase/database-snapshot.md",
-    "DataBase/database-architecture.md",
     "DataBase/1707716995-data-models.md",
-    "DataBase/1707902875-data-abstraction.md",
-    "DataBase/1708270814-ERD-Model.md",
     "NLP/1707911412-Automata.md",
     "NLP/1708086605-computation.md",
     "NLP/1707911450-Strings.md",
     "1708268391-languages.md",
-    "Pasted image 20240218185333.png",
-    "Pasted image 20240218185327.png",
     "templates/Note template.md",
-    "Pasted image 20240218181252.png",
-    "Pasted image 20240218181605.png",
     "Excalidraw/Drawing 2024-02-18 17.03.51.excalidraw.md",
     "Excalidraw/Drawing 2024-02-18 18.03.57.excalidraw.md",
     "Excalidraw/Drawing 2024-02-18 18.02.26.excalidraw.md",
     "ComputerArchitecture/1707808591-Register.md",
     "Algorithms/Images/Pasted image 20240214163148.png",
     "NLP/assets/imgs/Pasted image 20240217103905.png",
-    "NLP/assets/imgs/Pasted image 20240217091913 1.png",
-    "NLP/assets/imgs/computation-model.png",
-    "NLP/assets/imgs/Pasted image 20240218093034.png",
-    "NLP/assets/imgs/Pasted image 20240218172239.png",
     "NLP/Untitled 1.md",
-    "Algorithms/1708236493-Assemble-line-scheduling.md",
     "Excalidraw",
     "Algorithms/1707915809-Text segmentation.md",
     "ComputerArchitecture/1707809085-RTL.md",
