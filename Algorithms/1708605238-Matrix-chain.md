@@ -1,3 +1,9 @@
+---
+id: Matrix Chain
+aliases:
+  - Matrix-chain
+tags:
+---
 This is a problem solvable by [[1707802928-Dynamic-Programming|Dynamic Programming]] approach.
 
 ## Problem definition

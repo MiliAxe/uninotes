@@ -1,5 +1,5 @@
 ---
-id: Assemble-line-scheduling
+id: Assemble line scheduling
 aliases: 
 tags:
   - Algorithm

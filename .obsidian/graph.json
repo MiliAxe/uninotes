@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:templates -file  ",
+  "search": "-path:templates tag:#NLP -file   ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9586165100950744,
+  "scale": 0.9586165100950743,
   "close": false
 }
