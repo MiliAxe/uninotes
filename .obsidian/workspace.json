@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/1708326485-NFA.md",
-                "mode": "source",
+                "file": "NLP/1708263536-DFA.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/1708326485-NFA.md",
+                "file": "NLP/1708263536-DFA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/1708326485-NFA.md",
+                "file": "NLP/1708263536-DFA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/1708326485-NFA.md"
+                "file": "NLP/1708263536-DFA.md"
               }
             }
           }
@@ -152,6 +151,7 @@
   },
   "active": "5d2a4a2f3ad48779",
   "lastOpenFiles": [
+    "NLP/1708326485-NFA.md",
     "NLP/1708268850-regular-language.md",
     "NLP/1708263536-DFA.md",
     "NLP/assets/imgs/Pasted image 20240217091913 1.png",
@@ -162,7 +162,6 @@
     "NLP/1708086605-computation.md",
     "NLP/1707911412-Automata.md",
     "NLP/Lambda-transition.md",
-    "NLP/1708326485-NFA.md",
     "DataBase/database-architecture.md",
     "DataBase/database-snapshot.md",
     "DataBase/1708270814-ERD-Model.md",
