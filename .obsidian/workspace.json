@@ -8,115 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c98a0fca426f8e5",
+            "id": "8ebec5876a55c6a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a0a6dc91ba2d388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/1708268850-regular-language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4dd9495b57ed5fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/1708326485-NFA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d73c21d533b9ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/1707802928-Dynamic-Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdd9b509fa1cebfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerArchitecture/1707808591-Register.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dd2a8f7d89569a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerArchitecture/1707809085-RTL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "846b5ee7de87ee33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerArchitecture/1708413940-Bus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "730bb00af379fb1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerArchitecture/Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dd36980ec699a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataBase/1708270814-ERD-Model.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -236,10 +131,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -247,8 +142,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dd36980ec699a59",
+  "active": "8ebec5876a55c6a0",
   "lastOpenFiles": [
+    "NLP/1708268850-regular-language.md",
+    "Pasted image 20240226104556.png",
+    "Pasted image 20240226104520.png",
+    "NLP/Single-Final-State.md",
+    "NLP/1708888398-NFA DFA Equivalence.md",
+    "NLP/1708326485-NFA.md",
+    "DataBase/1708270814-ERD-Model.md",
     "Pasted image 20240226093533.png",
     "Pasted image 20240226092526.png",
     "DataBase/Untitled.md",
@@ -259,11 +161,7 @@
     "Pasted image 20240225225609.png",
     "Pasted image 20240225225440.png",
     "NLP/assets/imgs/Pasted image 20240220110741.png",
-    "NLP/assets/imgs/Pasted image 20240220105528.png",
-    "NLP/assets/imgs/Pasted image 20240220105349.png",
-    "NLP/assets/imgs/Pasted image 20240220105124.png",
     "NLP/1708889306-Lambda-transition.md",
-    "NLP/1708888398-NFA DFA Equivalence.md",
     "Algorithms/1708605238-Matrix-chain.md",
     "ComputerArchitecture/1708413940-Bus.md",
     "ComputerArchitecture/Control-unit.md",
@@ -271,7 +169,6 @@
     "ComputerArchitecture/1707809085-RTL.md",
     "DataBase/1707716995-data-models.md",
     "Algorithms/Matrix-chain.md",
-    "NLP/1708326485-NFA.md",
     "Algorithms/1707802928-Dynamic-Programming.md",
     "Algorithms/1707915809-Text segmentation.md",
     "Algorithms/1708236493-Assemble-line-scheduling.md",
@@ -279,12 +176,9 @@
     "NLP/Lambda-transition.md",
     "NLP/1708263536-DFA.md",
     "NLP/1707911450-Strings.md",
-    "NLP/1708268850-regular-language.md",
     "DataBase/database-snapshot.md",
     "DataBase/database-architecture.md",
-    "DataBase/1708270814-ERD-Model.md",
     "DataBase/1707902875-data-abstraction.md",
-    "NLP/1707911412-Automata.md",
     "Excalidraw",
     "NLP/Untitled",
     "NLP/assets/imgs",
