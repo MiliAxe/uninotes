@@ -44,15 +44,21 @@
             }
           },
           {
+            "id": "2fe5a08bee9d918a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "9064bda563f4389d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/Equivalent states.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Equivalent states.md",
+                "file": "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Equivalent states.md",
+                "file": "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Equivalent states.md"
+                "file": "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md"
               }
             }
           }
@@ -186,15 +192,23 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9064bda563f4389d",
+  "active": "2fe5a08bee9d918a",
   "lastOpenFiles": [
+    "Pasted Image 20240301213917_647.png",
+    "NLP/1708263536-DFA.md",
+    "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
+    "NLP/1708263542-finite-automata.md",
+    "NLP/1708267817-grammar.md",
+    "NLP/1708086605-computation.md",
+    "NLP/1708268391-language.md",
+    "NLP/1708268850-regular-language.md",
+    "NLP/1708326485-NFA.md",
+    "NLP/1708888398-NFA DFA Equivalence.md",
     "NLP/1708889306-Lambda-transition.md",
     "NLP/Equivalent states.md",
-    "NLP/1708263536-DFA.md",
-    "NLP/1708888398-NFA DFA Equivalence.md",
-    "NLP/1708326485-NFA.md",
     "NLP/Regular-expressions.md",
     "NLP/Single-Final-State.md",
+    "NLP/Drawing 2024-03-01 21.25.39.excalidraw.md",
     "NLP/assets/imgs/Pasted image 20240225225440.png",
     "NLP/assets/imgs/Pasted image 20240226104556.png",
     "NLP/assets/imgs/Pasted image 20240226104520.png",
@@ -206,11 +220,6 @@
     "DataBase/Untitled.md",
     "NLP/assets/imgs/Pasted image 20240225230020.png",
     "NLP/assets/imgs/Pasted image 20240225230015.png",
-    "NLP/1708263542-finite-automata.md",
-    "NLP/1708267817-grammar.md",
-    "NLP/1708268391-language.md",
-    "NLP/1708268850-regular-language.md",
-    "NLP/1708086605-computation.md",
     "NLP/assets/imgs/Pasted image 20240217091913 1.png",
     "NLP/1707911450-Strings.md",
     "NLP/1707911412-Automata.md",
@@ -221,9 +230,6 @@
     "DataBase/1707716995-data-models.md",
     "ComputerArchitecture/Control-unit.md",
     "ComputerArchitecture/1708413940-Bus.md",
-    "ComputerArchitecture/1707809085-RTL.md",
-    "ComputerArchitecture/1707808591-Register.md",
-    "Algorithms/1707802928-Dynamic-Programming.md",
     "Excalidraw",
     "NLP/assets/imgs",
     "NLP/assets",
