@@ -1,0 +1,1 @@
+Any [[1708263542-finite-automata|finite automata]] with multiple final states can be converted to a equivalent one with a single final state.
