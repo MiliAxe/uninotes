@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
+                "file": "NLP/1708263536-DFA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
+                "file": "NLP/1708263536-DFA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md"
+                "file": "NLP/1708263536-DFA.md"
               }
             }
           }
@@ -192,11 +192,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "2fe5a08bee9d918a",
+  "active": "4fbbd13cafb79865",
   "lastOpenFiles": [
+    "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
     "Pasted Image 20240301213917_647.png",
     "NLP/1708263536-DFA.md",
-    "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
     "NLP/1708263542-finite-automata.md",
     "NLP/1708267817-grammar.md",
     "NLP/1708086605-computation.md",
@@ -220,7 +220,6 @@
     "DataBase/Untitled.md",
     "NLP/assets/imgs/Pasted image 20240225230020.png",
     "NLP/assets/imgs/Pasted image 20240225230015.png",
-    "NLP/assets/imgs/Pasted image 20240217091913 1.png",
     "NLP/1707911450-Strings.md",
     "NLP/1707911412-Automata.md",
     "DataBase/database-architecture.md",
