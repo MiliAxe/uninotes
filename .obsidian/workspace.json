@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
+                "file": "ComputerArchitecture/1707809085-RTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
+                "file": "ComputerArchitecture/1707809085-RTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
+                "file": "ComputerArchitecture/1707809085-RTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md"
+                "file": "ComputerArchitecture/1707809085-RTL.md"
               }
             }
           }
@@ -165,6 +164,10 @@
   },
   "active": "d9ecbd3c9ccdf583",
   "lastOpenFiles": [
+    "ComputerArchitecture/1708413940-Bus.md",
+    "ComputerArchitecture/1707808591-Register.md",
+    "ComputerArchitecture/1707809085-RTL.md",
+    "DataBase/1708270814-ERD-Model.md",
     "DataBase/database-architecture.md",
     "DataBase/database-snapshot.md",
     "DataBase/Untitled.md",
@@ -185,14 +188,10 @@
     "NLP/1708268850-regular-language.md",
     "NLP/1708888398-NFA DFA Equivalence.md",
     "NLP/1708326485-NFA.md",
-    "DataBase/1708270814-ERD-Model.md",
     "ComputerArchitecture/Memory.md",
     "NLP/1708889306-Lambda-transition.md",
     "Algorithms/1708605238-Matrix-chain.md",
-    "ComputerArchitecture/1708413940-Bus.md",
     "ComputerArchitecture/Control-unit.md",
-    "ComputerArchitecture/1707808591-Register.md",
-    "ComputerArchitecture/1707809085-RTL.md",
     "DataBase/1707716995-data-models.md",
     "Algorithms/Matrix-chain.md",
     "Algorithms/1707802928-Dynamic-Programming.md",
