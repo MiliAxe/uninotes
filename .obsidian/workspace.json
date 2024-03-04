@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a0c14f806fdbd5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/The pumping lemma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d9ecbd3c9ccdf583",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/1708268850-regular-language.md",
+                "file": "NLP/The pumping lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/1708268850-regular-language.md",
+                "file": "NLP/The pumping lemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/1708268850-regular-language.md"
+                "file": "NLP/The pumping lemma.md"
               }
             }
           }
@@ -173,10 +186,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ebec5876a55c6a0",
+  "active": "a0c14f806fdbd5a8",
   "lastOpenFiles": [
-    "NLP/regular-langugae.md",
     "NLP/1708268850-regular-language.md",
+    "NLP/The pumping lemma.md",
+    "NLP/regular-langugae.md",
     "DataBase/1708270814-ERD-Model.md",
     "ComputerArchitecture/Micro-operations.md",
     "Pasted image 20240303111125.png",
@@ -210,7 +224,6 @@
     "Algorithms/1707802928-Dynamic-Programming.md",
     "Algorithms/1707915809-Text segmentation.md",
     "Algorithms/1708236493-Assemble-line-scheduling.md",
-    "Algorithms/1707915738-Fibonacci.md",
     "Excalidraw",
     "NLP/Untitled",
     "NLP/assets/imgs",
