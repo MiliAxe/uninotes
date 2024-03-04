@@ -21,4 +21,21 @@ The [[1708889306-Lambda-transition|Lambda transition]] enables us to have both o
 ![[Pasted image 20240226104556.png]]
 Again, we can easily line them up like so using [[1708889306-Lambda-transition|lambda transitions]].
 
+## Closed under...
+TODO: needs refactoring
+Regular languages are closed under the operations of:
+- Union
+- Concatenation
+- Star operation
+- Reverse
+- Complement
+- Intersection
+# Representations
+A [[1708268850-regular-language|regular-language]] can be represented in the following ways:
+- [[1708263536-DFA|DFA]]
+- [[1708326485-NFA|NFA]]
+- [[Regular-expressions]]
+- [[regular-langugae]]
 
+# FAQ
+- How can we check if a string is inside a [[1708268850-regular-language|Regular language]]? 

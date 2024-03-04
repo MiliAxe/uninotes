@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
+                "file": "NLP/1708268850-regular-language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
+                "file": "NLP/1708268850-regular-language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/1708270814-ERD-Model.md"
+                "file": "NLP/1708268850-regular-language.md"
               }
             }
           }
@@ -175,15 +173,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d249115d3555379",
+  "active": "8ebec5876a55c6a0",
   "lastOpenFiles": [
+    "NLP/regular-langugae.md",
+    "NLP/1708268850-regular-language.md",
+    "DataBase/1708270814-ERD-Model.md",
     "ComputerArchitecture/Micro-operations.md",
     "Pasted image 20240303111125.png",
     "Pasted image 20240303110918.png",
     "ComputerArchitecture/1707809085-RTL.md",
     "ComputerArchitecture/1708413940-Bus.md",
     "ComputerArchitecture/1707808591-Register.md",
-    "DataBase/1708270814-ERD-Model.md",
     "DataBase/database-architecture.md",
     "DataBase/database-snapshot.md",
     "DataBase/Untitled.md",
@@ -199,7 +199,6 @@
     "NLP/Equivalent states.md",
     "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
     "NLP/Single-Final-State.md",
-    "NLP/1708268850-regular-language.md",
     "NLP/1708888398-NFA DFA Equivalence.md",
     "NLP/1708326485-NFA.md",
     "ComputerArchitecture/Memory.md",
