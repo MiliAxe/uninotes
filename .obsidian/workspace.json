@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9a06055a203a9f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Huffman code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d9ecbd3c9ccdf583",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/The pumping lemma.md",
+                "file": "Algorithms/Huffman code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/The pumping lemma.md",
+                "file": "Algorithms/Huffman code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/The pumping lemma.md"
+                "file": "Algorithms/Huffman code.md"
               }
             }
           }
@@ -186,10 +199,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0c14f806fdbd5a8",
+  "active": "9a06055a203a9f4d",
   "lastOpenFiles": [
-    "NLP/1708268850-regular-language.md",
     "NLP/The pumping lemma.md",
+    "Algorithms/Huffman code.md",
+    "NLP/1708268850-regular-language.md",
     "NLP/regular-langugae.md",
     "DataBase/1708270814-ERD-Model.md",
     "ComputerArchitecture/Micro-operations.md",
@@ -223,7 +237,6 @@
     "Algorithms/Matrix-chain.md",
     "Algorithms/1707802928-Dynamic-Programming.md",
     "Algorithms/1707915809-Text segmentation.md",
-    "Algorithms/1708236493-Assemble-line-scheduling.md",
     "Excalidraw",
     "NLP/Untitled",
     "NLP/assets/imgs",
