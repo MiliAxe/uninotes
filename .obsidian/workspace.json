@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Huffman code.md",
+                "file": "ComputerArchitecture/1708413940-Bus.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "memory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Huffman code.md",
+                "file": "ComputerArchitecture/1708413940-Bus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Huffman code.md",
+                "file": "ComputerArchitecture/1708413940-Bus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Huffman code.md"
+                "file": "ComputerArchitecture/1708413940-Bus.md"
               }
             }
           }
@@ -201,20 +200,25 @@
   },
   "active": "9a06055a203a9f4d",
   "lastOpenFiles": [
-    "NLP/The pumping lemma.md",
+    "Pasted image 20240305110101.png",
+    "ComputerArchitecture/1707808591-Register.md",
+    "ComputerArchitecture/1707809085-RTL.md",
+    "ComputerArchitecture/Memory.md",
+    "Pasted image 20240305105334.png",
+    "Pasted image 20240305104501.png",
+    "ComputerArchitecture/Micro-operations.md",
+    "ComputerArchitecture/Control-unit.md",
+    "ComputerArchitecture/1708413940-Bus.md",
+    "DataBase/Untitled.md",
     "Algorithms/Huffman code.md",
+    "NLP/The pumping lemma.md",
     "NLP/1708268850-regular-language.md",
     "NLP/regular-langugae.md",
     "DataBase/1708270814-ERD-Model.md",
-    "ComputerArchitecture/Micro-operations.md",
     "Pasted image 20240303111125.png",
     "Pasted image 20240303110918.png",
-    "ComputerArchitecture/1707809085-RTL.md",
-    "ComputerArchitecture/1708413940-Bus.md",
-    "ComputerArchitecture/1707808591-Register.md",
     "DataBase/database-architecture.md",
     "DataBase/database-snapshot.md",
-    "DataBase/Untitled.md",
     "NLP/Regular-expressions.md",
     "Pasted Image 20240301213917_647.png",
     "NLP/assets/imgs/Pasted image 20240226104556.png",
@@ -222,21 +226,16 @@
     "NLP/assets/imgs/Pasted image 20240226093533.png",
     "NLP/assets/imgs/Pasted image 20240226092526.png",
     "NLP/assets/imgs/Pasted image 20240225230020.png",
-    "NLP/assets/imgs/Pasted image 20240225230015.png",
-    "NLP/assets/imgs/Pasted image 20240225225622.png",
     "NLP/Equivalent states.md",
     "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
     "NLP/Single-Final-State.md",
     "NLP/1708888398-NFA DFA Equivalence.md",
     "NLP/1708326485-NFA.md",
-    "ComputerArchitecture/Memory.md",
     "NLP/1708889306-Lambda-transition.md",
     "Algorithms/1708605238-Matrix-chain.md",
-    "ComputerArchitecture/Control-unit.md",
     "DataBase/1707716995-data-models.md",
     "Algorithms/Matrix-chain.md",
     "Algorithms/1707802928-Dynamic-Programming.md",
-    "Algorithms/1707915809-Text segmentation.md",
     "Excalidraw",
     "NLP/Untitled",
     "NLP/assets/imgs",
