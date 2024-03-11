@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerArchitecture/Control-unit.md",
+                "file": "DataBase/EER Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerArchitecture/Control-unit.md",
+                "file": "DataBase/EER Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerArchitecture/Control-unit.md",
+                "file": "DataBase/EER Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerArchitecture/Control-unit.md"
+                "file": "DataBase/EER Model.md"
               }
             }
           }
@@ -212,6 +212,8 @@
   },
   "active": "c8ffcd848542e563",
   "lastOpenFiles": [
+    "Pasted image 20240311092615.png",
+    "ComputerArchitecture/Control-unit.md",
     "DataBase/EER Model.md",
     "Pasted image 20240309093832.png",
     "DataBase/1707716995-data-models.md",
@@ -223,7 +225,6 @@
     "Pasted image 20240305105334.png",
     "Pasted image 20240305104501.png",
     "ComputerArchitecture/Micro-operations.md",
-    "ComputerArchitecture/Control-unit.md",
     "DataBase/Untitled.md",
     "Algorithms/Huffman code.md",
     "NLP/The pumping lemma.md",

@@ -6,3 +6,9 @@ Just like the concept of OOP, sub-classes can be made out of entities so that we
 ![[Pasted image 20240309093832.png]]
 
 ### Specialization
+When an entity starts having its own special abilities, we can inherit other entities from that and specialize entities.
+![[Pasted image 20240311092615.png]]
+
+### Generalization
+This is quite the opposite and we can sum all the common attributes in one entity. This can be applied to the same image as above.
+![[Pasted image 20240311092615.png]]
