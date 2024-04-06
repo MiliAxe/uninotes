@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "foldHeading": true,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "promptDelete": false
 }
