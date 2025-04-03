@@ -25,26 +25,26 @@
             "id": "a0c14f806fdbd5a8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DataBase/assets/imgs/Pasted image 20240311092615.png"
+                "file": "Networking/Ch1-Fourouzan.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240311092615"
+              "icon": "lucide-file",
+              "title": "Ch1-Fourouzan"
             }
           },
           {
             "id": "2d020cc9f95350de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NLP/regular-langugae.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/2025-04-03-19-05-33.png"
               },
-              "icon": "lucide-file",
-              "title": "regular-langugae"
+              "icon": "lucide-image",
+              "title": "2025-04-03-19-05-33"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obisidian-note-linker:Note Linker": false,
       "graph:Open graph view": false,
@@ -223,30 +222,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "2d020cc9f95350de",
+  "active": "a0c14f806fdbd5a8",
   "lastOpenFiles": [
-    "NLP/Equivalent states.md",
-    "NLP/Single-Final-State.md",
-    "NLP/regular-langugae.md",
-    "templates/Note template.md",
+    "Networking/assets/Pasted image 20250403194319.png",
+    "Networking/assets/Pasted image 20250403192955.png",
+    "Networking/assets/Pasted image 20250403192914.png",
+    "Networking/Ch2-Fourouzan.md",
+    "Networking/Ch1-Fourouzan.md",
+    "Networking/assets/Pasted image 20250403192315.png",
+    "Networking/assets/Pasted image 20250403192235.png",
+    "Networking/assets/Pasted image 20250403192154.png",
+    "Networking/assets/Pasted image 20250403191056.png",
+    "DataBase/assets/imgs/Pasted image 20240311092615.png",
+    "assets/2025-04-03-19-04-09.png",
+    "assets/2025-04-03-19-05-33.png",
+    "Ch1.md",
     "NLP/1708268850-regular-language.md",
+    "Networking",
+    "NLP/1708267817-grammar.md",
+    "NLP/1708268391-language.md",
     "NLP/1708888398-NFA DFA Equivalence.md",
+    "NLP/Equivalent states.md",
+    "NLP/1708889306-Lambda-transition.md",
+    "NLP/Regular-expressions.md",
+    "templates/Note template.md",
+    "NLP/regular-langugae.md",
+    "NLP/Single-Final-State.md",
     "ComputerArchitecture/Memory.md",
     "ComputerArchitecture/assets/imgs/Pasted image 20240407110801.png",
-    "ComputerArchitecture/assets/imgs/Pasted image 20240407110637.png",
-    "ComputerArchitecture/assets/imgs/Pasted image 20240303110918.png",
     "ComputerArchitecture/assets/imgs",
     "ComputerArchitecture/assets",
-    "ComputerArchitecture/assets/imgs/Pasted image 20240303111125.png",
-    "ComputerArchitecture/assets/imgs/Pasted image 20240305104501.png",
-    "ComputerArchitecture/assets/imgs/Pasted image 20240305105334.png",
-    "ComputerArchitecture/assets/imgs/Pasted image 20240305110101.png",
-    "DataBase/assets/imgs/Pasted image 20240309093832.png",
-    "DataBase/assets/imgs/Pasted image 20240406092039.png",
-    "DataBase/assets/imgs/Pasted image 20240311092615.png",
     "Untitled.md",
     "DataBase/assets/imgs",
     "DataBase/assets",
@@ -260,19 +269,11 @@
     "DataBase/EER Model.md",
     "Algorithms/Huffman code.md",
     "DataBase/1708270814-ERD-Model.md",
-    "ComputerArchitecture/1707808591-Register.md",
-    "DataBase/database-architecture.md",
-    "DataBase/database-snapshot.md",
-    "DataBase/Untitled.md",
-    "NLP/Regular-expressions.md",
-    "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
-    "NLP/1708326485-NFA.md",
     "Excalidraw",
     "NLP/Untitled",
     "NLP/assets/imgs",
     "NLP/assets",
     "Algorithms/codes/textsegmentation.py",
-    "Algorithms/codes/a.out",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
