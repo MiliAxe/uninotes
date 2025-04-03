@@ -16,7 +16,9 @@
                 "file": "NLP/1708268850-regular-language.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1708268850-regular-language"
             }
           },
           {
@@ -26,7 +28,9 @@
               "type": "image",
               "state": {
                 "file": "DataBase/assets/imgs/Pasted image 20240311092615.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240311092615"
             }
           },
           {
@@ -35,10 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerArchitecture/Memory.md",
+                "file": "NLP/regular-langugae.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "regular-langugae"
             }
           },
           {
@@ -50,7 +56,9 @@
                 "file": "ComputerArchitecture/1707809085-RTL.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1707809085-RTL"
             }
           },
           {
@@ -62,7 +70,9 @@
                 "file": "DataBase/1708270814-ERD-Model.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1708270814-ERD-Model"
             }
           }
         ],
@@ -85,8 +95,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -101,7 +114,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -109,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -132,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerArchitecture/Memory.md",
+                "file": "templates/Note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +157,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Note template"
             }
           },
           {
@@ -149,10 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerArchitecture/Memory.md",
+                "file": "templates/Note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Note template"
             }
           },
           {
@@ -162,8 +183,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -172,8 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerArchitecture/Memory.md"
-              }
+                "file": "templates/Note template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Note template"
             }
           }
         ]
@@ -198,12 +228,18 @@
   },
   "active": "2d020cc9f95350de",
   "lastOpenFiles": [
+    "NLP/Equivalent states.md",
+    "NLP/Single-Final-State.md",
+    "NLP/regular-langugae.md",
+    "templates/Note template.md",
+    "NLP/1708268850-regular-language.md",
+    "NLP/1708888398-NFA DFA Equivalence.md",
+    "ComputerArchitecture/Memory.md",
     "ComputerArchitecture/assets/imgs/Pasted image 20240407110801.png",
     "ComputerArchitecture/assets/imgs/Pasted image 20240407110637.png",
     "ComputerArchitecture/assets/imgs/Pasted image 20240303110918.png",
     "ComputerArchitecture/assets/imgs",
     "ComputerArchitecture/assets",
-    "templates/Note template.md",
     "ComputerArchitecture/assets/imgs/Pasted image 20240303111125.png",
     "ComputerArchitecture/assets/imgs/Pasted image 20240305104501.png",
     "ComputerArchitecture/assets/imgs/Pasted image 20240305105334.png",
@@ -216,7 +252,6 @@
     "DataBase/assets",
     "ComputerArchitecture/Control-unit.md",
     "ComputerArchitecture/Instructions.md",
-    "ComputerArchitecture/Memory.md",
     "ComputerArchitecture/Micro-operations.md",
     "ComputerArchitecture/1707809085-RTL.md",
     "ComputerArchitecture/1708413940-Bus.md",
@@ -224,18 +259,13 @@
     "DataBase/Relational model.md",
     "DataBase/EER Model.md",
     "Algorithms/Huffman code.md",
-    "NLP/1708268850-regular-language.md",
-    "NLP/regular-langugae.md",
     "DataBase/1708270814-ERD-Model.md",
     "ComputerArchitecture/1707808591-Register.md",
     "DataBase/database-architecture.md",
     "DataBase/database-snapshot.md",
     "DataBase/Untitled.md",
     "NLP/Regular-expressions.md",
-    "NLP/Equivalent states.md",
     "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
-    "NLP/Single-Final-State.md",
-    "NLP/1708888398-NFA DFA Equivalence.md",
     "NLP/1708326485-NFA.md",
     "Excalidraw",
     "NLP/Untitled",
