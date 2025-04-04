@@ -17,3 +17,13 @@ This technology provides [[Ch1-Fourouzan#WAN|WAN access]] to users via telephone
 
 ### Network Core
 These are basically the backbones of the internet. They are usually interconnected routers that route the packets that the devices from the network edge send out.
+## Sending packets
+Packets can be sent in ways:
+### Packet switching
+In this approach, data is split into *packets* and the packets are sent to the wild. The packets go through different routers and through different routes. The packets reach the destination and the destination reassembles them to understand what was going on.
+#### Store and forward
+In packet switching, the router that receives the packet completely stores it, does error checking on it and then decides where to pass it. This means that the data should be completely stored and cannot be passed on before passing it on to the next router.
+#### Queuing
+Since routers need to [[#Store and forward]], They have a limited queue in which they can store the packets and process them one by one. If this queue is full, the router is forced to drop it. causing packet loss.
+### Circuit switching
+Another approach that we might consider is circuit switching. 
