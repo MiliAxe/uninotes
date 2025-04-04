@@ -8,75 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ebec5876a55c6a0",
+            "id": "5268e869f90eaab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/1708268850-regular-language.md",
+                "file": "Networking/Ch1-Kurose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1708268850-regular-language"
-            }
-          },
-          {
-            "id": "a0c14f806fdbd5a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Ch1-Fourouzan.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ch1-Fourouzan"
-            }
-          },
-          {
-            "id": "2d020cc9f95350de",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/2025-04-03-19-05-33.png"
-              },
-              "icon": "lucide-image",
-              "title": "2025-04-03-19-05-33"
-            }
-          },
-          {
-            "id": "d9ecbd3c9ccdf583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerArchitecture/1707809085-RTL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1707809085-RTL"
-            }
-          },
-          {
-            "id": "3d249115d3555379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/1708270814-ERD-Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1708270814-ERD-Model"
+              "title": "Ch1-Kurose"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,20 +171,33 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a0c14f806fdbd5a8",
+  "active": "5268e869f90eaab6",
   "lastOpenFiles": [
+    "Networking/assets/Pasted image 20250404135343.png",
+    "Networking/Ch1-Fourouzan.md",
+    "Networking/Ch1-Kurose.md",
+    "Networking/Ch2-Fourouzan.md",
+    "DataBase/database-snapshot.md",
+    "DataBase/1708270814-ERD-Model.md",
+    "DataBase/1707716995-data-models.md",
+    "DataBase/assets/imgs/Pasted image 20240406092039.png",
+    "Excalidraw/grammar 2024-02-18 18.04.12.excalidraw.md",
+    "Excalidraw/1708263536-DFA 2024-03-01 21.26.18.excalidraw.md",
+    "ComputerArchitecture/Micro-operations.md",
+    "ComputerArchitecture/Memory.md",
+    "ComputerArchitecture/Instructions.md",
+    "ComputerArchitecture/Control-unit.md",
+    "ComputerArchitecture/1708413940-Bus.md",
+    "ComputerArchitecture/1707809085-RTL.md",
     "Networking/assets/Pasted image 20250403194319.png",
     "Networking/assets/Pasted image 20250403192955.png",
     "Networking/assets/Pasted image 20250403192914.png",
-    "Networking/Ch2-Fourouzan.md",
-    "Networking/Ch1-Fourouzan.md",
     "Networking/assets/Pasted image 20250403192315.png",
     "Networking/assets/Pasted image 20250403192235.png",
     "Networking/assets/Pasted image 20250403192154.png",
     "Networking/assets/Pasted image 20250403191056.png",
     "DataBase/assets/imgs/Pasted image 20240311092615.png",
     "assets/2025-04-03-19-04-09.png",
-    "assets/2025-04-03-19-05-33.png",
     "Ch1.md",
     "NLP/1708268850-regular-language.md",
     "Networking",
@@ -252,23 +210,10 @@
     "templates/Note template.md",
     "NLP/regular-langugae.md",
     "NLP/Single-Final-State.md",
-    "ComputerArchitecture/Memory.md",
-    "ComputerArchitecture/assets/imgs/Pasted image 20240407110801.png",
     "ComputerArchitecture/assets/imgs",
     "ComputerArchitecture/assets",
-    "Untitled.md",
     "DataBase/assets/imgs",
     "DataBase/assets",
-    "ComputerArchitecture/Control-unit.md",
-    "ComputerArchitecture/Instructions.md",
-    "ComputerArchitecture/Micro-operations.md",
-    "ComputerArchitecture/1707809085-RTL.md",
-    "ComputerArchitecture/1708413940-Bus.md",
-    "NLP/The pumping lemma.md",
-    "DataBase/Relational model.md",
-    "DataBase/EER Model.md",
-    "Algorithms/Huffman code.md",
-    "DataBase/1708270814-ERD-Model.md",
     "Excalidraw",
     "NLP/Untitled",
     "NLP/assets/imgs",
