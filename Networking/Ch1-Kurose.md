@@ -38,3 +38,23 @@ We can also split the time slots and send data at full frequency:
 
 ### Calculating users active
 #### Circuit switching
+Just divide the total bandwidth by the usage of each user
+$$
+\frac{\text{Total bandwidth}}{\text{Usage of each user}}
+$$
+#### Packet switching
+A useful thing is the calculation of the probability
+$$
+\binom{k}{n}p^n(1-p)^{(k-n)}
+$$
+
+### Traffic intensity
+calculated by:
+$$
+\frac{L\times a}{R} 
+$$
+`a` is average packet arrival rate
+`L` is packet length
+`R` is link bandwidth
+
+As this gets closer to one, the average queuing delay is large. if it gets bigger than one, the average delay is infinite.
