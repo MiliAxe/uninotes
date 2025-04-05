@@ -36,3 +36,5 @@ We can either split the frequency domain and send data over different segments o
 We can also split the time slots and send data at full frequency:
 ![[Pasted image 20250404191908.png]]
 
+### Calculating users active
+#### Circuit switching
