@@ -26,4 +26,13 @@ In packet switching, the router that receives the packet completely stores it, d
 #### Queuing
 Since routers need to [[#Store and forward]], They have a limited queue in which they can store the packets and process them one by one. If this queue is full, the router is forced to drop it. causing packet loss.
 ### Circuit switching
-Another approach that we might consider is circuit switching. In this approach, links get completely dedicated to a pair of clients so that they can communicate without any issues. This ensures that the data being sent is received reliably. In this approach 
+Another approach that we might consider is circuit switching. In this approach, links get completely dedicated to a pair of clients so that they can communicate without any issues. This ensures that the data being sent is received reliably. In this approach, data is just sent over this link without store and forward.
+![[Pasted image 20250404191448.png]]
+#### FDM (Frequency Domain Multiplexing)
+We can either split the frequency domain and send data over different segments of frequency or split the time domain and send the data in different times:
+![[Pasted image 20250404191700.png]]
+
+#### TDM (Time Division Multiplexing)
+We can also split the time slots and send data at full frequency:
+![[Pasted image 20250404191908.png]]
+
