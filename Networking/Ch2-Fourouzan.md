@@ -31,3 +31,11 @@ This layer, which is the last layer, is responsible for moving the bits over the
 - [[Ch1-Fourouzan#Topology|Physical Topology]]: How is the network laid out?
 - [[Ch1-Fourouzan#Data flow|Transmission Mode]]: Are we in simplex, half-duplex...?
 ## Data Link Layer
+This layer is responsible for making sure that the data moves across close neighborhoods, namely your local area network or a single physical link. The packet tends to go over many steps and locations before it gets received at the end receiver. This is called **node-to-nod or hop-to-hop** delivery.
+### Tasks
+- Framing: breaking packets into manageable chunks called *frames* which includes the MAC address and some error detection chunks for fine delivery of data.
+- Physical addressing: this layer is mainly concerned with the MAC address. uses it for node-to-node delivery.
+- Flow control: it manages the data being sent to the connected node. Making sure that they are exchanging data at an appropriate speed. 
+- Error control and correction: by using error detection and correcting them with certain methods, message is ensured to be exchanged correctly in the physical link.
+- Access control: since the physical medium is going to be used by multiple devices, this layer determines which device gets to use the medium at any given moment. handling conflicts between devices.
+## Network Layer
