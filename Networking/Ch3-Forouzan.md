@@ -46,4 +46,6 @@ We don’t need to worry about collision in full duplex scenarios because it all
 Wireless networks are widely used in day to day lives like WiFis.
 
 ## Glossary
-- **BSS**: A group of computers in a network 
+- **BSS**: A group of computers in a network. The basic service set. 
+- **AP**: A device that provides network access to a bunch of devices. 
+- **ESS**: A bigger group of network that 
