@@ -31,3 +31,19 @@ The MAC address is sent byte by byte and each byte is sent starting from its LSB
 
 #### Evolution 
 Overtime, the Ethernet improved and got more features. Starting from 10mbps and going up to 10 gigabit over four evolutions. 
+
+Standard -> Fast -> Gigabit -> Ten Gigabit
+
+#### CSMA/CD
+In old ethernet connections, there was a chance that two devices would transmit data at the same time, causing data to become unusable. This is because of the fact that data takes time to reach other devices and devices might start sending data while data is on its way. 
+![[Pasted image 20250406182425.png]]
+
+In order to solve this, the CSMA/CD mechanism came into play where the device checks if the channel is free before sending data and if it detects a collision while transmitting, it retries sending data after a while. It retries this until it makes it or reaches a certain limit. 
+![[Pasted image 20250406182447.png]]
+##### Full duplex  saving collision
+We don’t need to worry about collision in full duplex scenarios because it allows for the sender and receiver to easily transmit and receive data at the same time. 
+# Wireless LANs
+Wireless networks are widely used in day to day lives like WiFis.
+
+## Glossary
+- **BSS**: A group of computers in a network 
