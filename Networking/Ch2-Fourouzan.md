@@ -39,3 +39,41 @@ This layer is responsible for making sure that the data moves across close neigh
 - Error control and correction: by using error detection and correcting them with certain methods, message is ensured to be exchanged correctly in the physical link.
 - Access control: since the physical medium is going to be used by multiple devices, this layer determines which device gets to use the medium at any given moment. handling conflicts between devices.
 ## Network Layer
+This layer is responsible for making sure that the packet reaches its actual receiver. It makes sure that the packet reaches its intended receiver on *another network. (If wanted)*. 
+
+### Tasks
+- Logical addressing: by using IP addresses, this layer identifies devices on different networks
+- Routing: makes sure that the packet successfully *moves* towards the intended target and makes sure it moves in the best route possible.
+- Fragmentation: breaking down the packets to make sure the underlying networks can handle it. 
+## Transport Layer
+This layer is responsible for **end-to-end delivery** meaning that it makes sure that the message gets to the correct application in the target. And aside from that, it makes sure that the message arrives absolutely correctly and without errors.
+### Tasks
+- Segmentation (and reassembly): breaking the application data (which can often be huge). To smaller chunks for the network to handle. 
+- Ordering packets: makes sure that the messages that were broken into segments get reordered properly. 
+- Service point addressing: with the use of application ports, this layer makes sure the messages arrive to the correct application. 
+- Connection control: handling setups and needed steps for connection-oriented (TCP) or connectionless (UDP) connections. 
+- Flow control: this makes sure that end-to-end services can handle the data flow being sent (this is more of a concern in TCP. UDP doesn’t care). 
+- Error control: making sure that the device reached its end-to-end destination correctly without corruption
+## Session Layer
+This layer is responsible for handling the communication sessions happening between applications. 
+### Tasks
+- Session management: creates, maintains and manages sessions. 
+- Synchronization: uses so-called checkpoints so if the transfer drops, it can resume from these checkpoints. Useful for big file transfers. 
+## Presentation Layer
+This layer ensures that the format of the message is being sent is exactly what application wants it to be like to be able to understand it. 
+### Tasks
+- Translation: makes sure that the data is correctly formatted and the semantics for it is correct
+- Compression: the data is compressed so that bandwidth is saved if necessary 
+- Encryption/Decryption: does security measures if needed to make sure data cannot be read across the network. Like SSL/TLS. 
+## Application layer
+This layer is basically the interface of the user with the network. It provides means to user interfaces to interact with the internet. Handles protocol related functionality. For example the protocol might be SMTP, DNS, HTTP and so on. 
+# TCP/IP Model
+This model is simply said, the simplified version of the [[#OSI Model]]. 
+
+It simplifies the top three layers into a single application layer. ([[#Application layer]], [[#Presentation Layer]], [[#Session Layer]])
+
+The transport layer is the same as [[#Transport Layer]]
+
+Internet layer is the same as the [[#Network Layer]]
+
+The network interface layer corresponds to the bottom two layers. ([[#Physical layer]] and [[#Data Link Layer]]). 

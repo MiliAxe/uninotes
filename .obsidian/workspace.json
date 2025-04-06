@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04e1eab2c5813598",
@@ -174,8 +173,13 @@
   },
   "active": "5268e869f90eaab6",
   "lastOpenFiles": [
-    "Networking/Ch1-Fourouzan.md",
+    "Networking/Ch3-Forouzan.md",
     "Networking/Ch2-Fourouzan.md",
+    "Networking/assets/Pasted image 20250406145718.png",
+    "Networking/assets/Pasted image 20250406105111.png",
+    "Networking/assets/Pasted image 20250406145112.png",
+    "Personal",
+    "Networking/Ch1-Fourouzan.md",
     "Networking/Ch1-Kurose.md",
     "Networking/assets/Pasted image 20250405222546.png",
     "Networking/assets/Pasted image 20250405222422.png",
@@ -184,7 +188,6 @@
     "Networking/assets/Pasted image 20250404191448.png",
     "Personal/Guideline.md",
     "Networking/Untitled.md",
-    "Personal",
     "Networking/assets/Pasted image 20250404135343.png",
     "DataBase/database-snapshot.md",
     "DataBase/1708270814-ERD-Model.md",
@@ -198,9 +201,6 @@
     "ComputerArchitecture/Control-unit.md",
     "ComputerArchitecture/1708413940-Bus.md",
     "ComputerArchitecture/1707809085-RTL.md",
-    "Networking/assets/Pasted image 20250403194319.png",
-    "Networking/assets/Pasted image 20250403192955.png",
-    "Networking/assets/Pasted image 20250403192914.png",
     "Ch1.md",
     "NLP/1708268850-regular-language.md",
     "Networking",
