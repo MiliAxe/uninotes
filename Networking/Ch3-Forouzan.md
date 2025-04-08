@@ -48,4 +48,6 @@ Wireless networks are widely used in day to day lives like WiFis.
 ## Glossary
 - **BSS**: A group of computers in a network. The basic service set. 
 - **AP**: A device that provides network access to a bunch of devices. 
-- **ESS**: A bigger group of network that 
+- **ESS**: A bigger group of network that contains several BSS and APs. 
+## CSMA/CA
+Wireless networks also suffer with collision. They have a coll
