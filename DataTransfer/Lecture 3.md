@@ -26,3 +26,19 @@ $$
 \text{SNR} = \frac{\text{Power}_{signal}}{\text{Power}_{noise}}
 $$
 ### dB version
+$$
+\text{SNR} = 10\log_{10}{\frac{\text{Power}_{signal}}{\text{Power}_{noise}}}
+$$
+## Bandwidth efficiency
+$$
+BE=\frac{C}{B}
+$$
+
+## Nyquist
+$$
+C= 2B\log_2M
+$$
+## Shannon
+$$
+C=B\log_2(1+\text{SNR})
+$$
