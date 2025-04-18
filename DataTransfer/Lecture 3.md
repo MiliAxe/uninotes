@@ -15,3 +15,14 @@ $$
 \textrm{Power level}_{dBm} = 10 \log_{10}{\frac{Power_W}{1\ mW}}
 $$
 
+## Thermal noise
+The formula is:
+$$
+-228.6+10\log{T} + 10\log{B} 
+$$
+## SNR
+### Normal
+$$
+\text{SNR} = \frac{\text{Power}_{signal}}{\text{Power}_{noise}}
+$$
+### dB version
