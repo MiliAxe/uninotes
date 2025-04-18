@@ -1,14 +1,12 @@
 [
   "obsidian-git",
   "obsidian-rtl",
-  "luhman",
   "obsidian-relative-line-numbers",
-  "templater-obsidian",
   "obsidian-minimal-settings",
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
   "obsidian-style-settings",
   "obsidian-discordrpc",
   "obisidian-note-linker",
-  "obsidian-front-matter-title-plugin"
+  "remotely-save",
+  "obsidian-icon-folder"
 ]

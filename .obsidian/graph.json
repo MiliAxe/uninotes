@@ -1,41 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "-path:templates tag:#NLP -file   ",
+  "search": "tag:#Networking  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#ComputerArchitecture  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Algorithms  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#NLP  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#DataBase  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.3,
@@ -46,6 +17,6 @@
   "repelStrength": 0.104166666666667,
   "linkStrength": 0.744791666666667,
   "linkDistance": 250,
-  "scale": 1.3468016821419366,
+  "scale": 1.3468016821419362,
   "close": false
 }
