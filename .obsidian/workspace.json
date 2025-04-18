@@ -16,7 +16,9 @@
                 "file": "NLP/1708268850-regular-language.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1708268850-regular-language"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "NLP/The pumping lemma.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The pumping lemma"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "DataBase/1707716995-data-models.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1707716995-data-models"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "DataBase/EER Model.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "EER Model"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "ComputerArchitecture/Micro-operations.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Micro-operations"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "ComputerArchitecture/Instructions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Instructions"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "ComputerArchitecture/1707809085-RTL.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1707809085-RTL"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "DataBase/1708270814-ERD-Model.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1708270814-ERD-Model"
             }
           }
         ],
@@ -123,8 +139,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -139,7 +158,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -147,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -179,7 +202,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Instructions"
             }
           },
           {
@@ -191,7 +216,9 @@
                 "file": "ComputerArchitecture/Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Instructions"
             }
           },
           {
@@ -201,8 +228,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -211,8 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerArchitecture/Instructions.md"
-              }
+                "file": "ComputerArchitecture/Instructions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Instructions"
             }
           }
         ]
