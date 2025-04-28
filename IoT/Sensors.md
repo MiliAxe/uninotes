@@ -40,3 +40,26 @@ measuring force via changing resistance. cheap
 measuring force via outputting electricity
 
 ## Chemical
+- Usually done by sampling the substance and reaction on them
+- useful for hazardous materials
+- may be indirect and direct based on the substance and usage
+### Gas sensors
+basically the only thing mentioned in the slides.
+- Alcohol breath
+- Fire detection
+## Biosensor
+Detect biological substance
+- Glucose
+- Cholesterol
+- DNA
+## Environmental
+### Temperature
+#### Thermocouple
+big range, good for industrial, jet engines. fast response. bad accuracy
+#### RTD
+Good range, high accuracy, slow. good for scientific locations
+#### Thermistor
+Used in home appliances, medical applications. sensitive and fragile
+#### IR
+Fast response, medium accuracy. fast response
+## Optical
